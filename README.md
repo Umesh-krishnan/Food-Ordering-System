@@ -9,7 +9,7 @@ Online Food Ordering System in PHP
 <li> Food Order 
 <li> Food Order Manage
 <li> Admin Panel
-<li> Deshbord
+<li> Dashbord
 <li> User Management
 <li> Resturent Add
 <li> Resturent Management
